@@ -1,0 +1,4 @@
+DWM-6.4
+
+* for now only changing config.h and maybe config.mk as suggested
+* im keeping a copy of the originals
